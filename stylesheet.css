@@ -1,5 +1,20 @@
-#header 
+#header-container {
+	background: white;
+	height: 200px;
+}
+
+#body_small
+p {
+	font-family: "Arial";
+	position: absolute;
+	margin: 100px;	
+}
+
+#header_small
 img {
+	background-color: white;
+
+	/* position info */
 	position: fixed;
 	display: block;
 
@@ -11,9 +26,5 @@ img {
 
 	/* give it dimensions */
 	margin: 0 auto;
-	width: 25%;
-}
-body {
-	position: relative;
-	display: span;
+	height: 200px
 }
