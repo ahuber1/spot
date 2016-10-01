@@ -1,0 +1,19 @@
+#header 
+img {
+	position: fixed;
+	display: block;
+
+	/* center the element */
+	right: 0;
+	left: 0;
+	margin-right: auto;
+	margin-left: auto;
+
+	/* give it dimensions */
+	margin: 0 auto;
+	width: 25%;
+}
+body {
+	position: relative;
+	display: span;
+}
