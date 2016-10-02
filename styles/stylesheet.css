@@ -174,3 +174,9 @@ img {
     width: 40%;
     float: right;
 }
+
+/*	Centers buttons so long as they use the "buttons" class */
+.buttons {
+ 	display: flex;
+    justify-content: center;
+ -}
