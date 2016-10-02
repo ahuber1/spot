@@ -1,0 +1,30 @@
+#header-container {
+	background: white;
+	height: 200px;
+}
+
+#body_small
+p {
+	font-family: "Arial";
+	position: absolute;
+	margin: 100px;	
+}
+
+#header_small
+img {
+	background-color: white;
+
+	/* position info */
+	position: fixed;
+	display: block;
+
+	/* center the element */
+	right: 0;
+	left: 0;
+	margin-right: auto;
+	margin-left: auto;
+
+	/* give it dimensions */
+	margin: 0 auto;
+	height: 200px
+}
